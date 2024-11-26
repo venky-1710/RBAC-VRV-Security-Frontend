@@ -91,8 +91,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vishnukkrishna/RBAC-VRV-Security.git
-   cd RBAC-VRV-Security
+   https://github.com/venky-1710/RBAC-VRV-Security-Frontend.git
+   cd RBAC-VRV-Security-Frontend
 
    ```
 
@@ -119,7 +119,7 @@ To run the project locally, follow these steps:
 
 **The application is live and can be accessed here**:
 
-[**RBAC UI Live**](https://rbac-vrv-security.vercel.app)
+[**RBAC UI Live**](https://rbac-vrv-dashboard.vercel.app/)
 
 ## **Screenshots**
 
